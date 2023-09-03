@@ -373,6 +373,7 @@ dd {
 .works p { color:black;}
 
 .works {
+    display: none;
     width: 100%;
     background-color: #FFFFFF;
 }
